@@ -13,8 +13,6 @@ a.enter{
 	background: #ff7a82
 }
 
-/* icons */
-
-.fa:hover{
+.enlarge:hover{
   transform:scale(1.3);
 }
