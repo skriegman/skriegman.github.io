@@ -13,6 +13,11 @@ a.enter{
 	background: #ff7a82
 }
 
+.enlarging {
+    font-size:5em;
+    color:black;
+}
+
 .enlarging:hover {
     transform:scale(1.3);
     -moz-transform:scale(1.3);
