@@ -12,3 +12,9 @@ a.enter{
 .oc{
 	background: #ff7a82
 }
+
+/* icons */
+
+.fa:hover{
+  transform:scale(1.3);
+}
