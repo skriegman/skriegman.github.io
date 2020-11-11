@@ -3,6 +3,10 @@ body{
 	padding-top: 70px;
 }
 
+div {
+    word-spacing:30px;
+}
+
 a.enter{
 	color:black;
 	text-decoration: none;
